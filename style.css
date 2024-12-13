@@ -1,0 +1,83 @@
+/* body {
+    background-image: url('image/istana.jpg');
+    /* Pastikan path gambar benar */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.text-box {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 60px;
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff !important;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1rem;
+    transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ffd700 !important;
+    /* Gold hover effect */
+}
+
+.dropdown-menu {
+    background-color: #343a40;
+    /* Dark dropdown background */
+}
+
+.dropdown-menu .dropdown-item {
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #495057;
+    /* Hover effect for dropdown items */
+}
+
+/* Styling for Berita Hype Section */
+.card {
+    margin-bottom: 20px;
+    border-radius: 13px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    height: 200px;
+    border-radius: 13px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.text-center {
+    color: #f4880ef2;
+} */
